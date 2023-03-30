@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-MIT
+web: vendor/gmailbruteforcer1/heroku-php-MIT
