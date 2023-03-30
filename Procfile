@@ -1,1 +1,1 @@
-worker: web index.php
+web: vendor/bin/heroku-php-MIT
